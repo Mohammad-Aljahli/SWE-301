@@ -7,7 +7,7 @@
 ## Team Members
 - [Saleh Alhajri]
 - [Mohammad Aljahli]
-- [Mohamed Alaaeldin Daoud]
+- [Mohamed Daoud]
 
 ## Project Summary
 A web-based application that helps users manually track digital subscriptions, renewal dates, recurring costs, and cloud-storage usage in one place.
