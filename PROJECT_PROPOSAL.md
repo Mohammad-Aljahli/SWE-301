@@ -1,8 +1,8 @@
 # 4.1 Team Information
 
 **Project title:** Subscription & Storage Manager  
-**Group letter:** [GROUP LETTER]  
-**Team members:** [MEMBER 1], [MEMBER 2], [MEMBER 3]  
+**Group letter:** [GROUP E]  
+**Team members:** [Saleh Alhajri], [Mohammad Aljahli], [Mohamed Alaaeldin Daoud]  
 **GitHub repository URL:** [REPOSITORY URL]
 
 **One-sentence summary:** A web-based application that helps users manually track digital subscriptions, renewal dates, recurring costs, and cloud-storage usage in one place.
