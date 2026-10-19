@@ -118,9 +118,6 @@ All three members will contribute to every major project activity; coordinator r
 - [ADD VERIFIED CURRENT-PROCESS EVIDENCE: interview, observation, or document].
 - [ADD ANY FRAMEWORK, LIBRARY, TEMPLATE, OR OTHER SOURCE ACTUALLY USED].
 
-## Generative AI Use
-
-ChatGPT was used to draft and organize an initial proposal based on the assignment instructions and the selected project idea. The team must review the draft, verify product comparisons and sources, correct any inaccuracies, and revise the content to reflect its own decisions before submission. This statement must be updated if the team's actual AI use differs.
 
 ## Team Contributions
 
