@@ -115,8 +115,6 @@ All three members will contribute to every major project activity; coordinator r
 - SWE301 Assignment 1: *Project Proposal and Initial Requirements*, instructor-provided assignment document.
 - Rocket Money official website: https://www.rocketmoney.com/ (product comparison; team verification required).
 - Google One official website: https://one.google.com/ (product comparison; team verification required).
-- [ADD VERIFIED CURRENT-PROCESS EVIDENCE: interview, observation, or document].
-- [ADD ANY FRAMEWORK, LIBRARY, TEMPLATE, OR OTHER SOURCE ACTUALLY USED].
 
 
 ## Team Contributions
