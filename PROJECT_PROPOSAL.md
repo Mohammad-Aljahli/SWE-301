@@ -123,8 +123,8 @@ All three members will contribute to every major project activity; coordinator r
 
 | Member | Actual contribution and GitHub evidence |
 |---|---|
-| Saleh Alhajri |  Defined the project problem, users, and proposed solution. Reviewed the final proposal. GitHub: [Commit/PR link] |
-| Mohammad Aljahli | Researched existing solutions and defined the project scope and three workflows. GitHub: [Commit/PR link] |
-| Mohamed Alaaeldin Daoud | Prepared the functional and non-functional requirements, development approach, and project risks. GitHub: [Commit/PR link] |
+| Saleh Alhajri |  Defined the project problem, users, and proposed solution. Reviewed the final proposal. |
+| Mohammad Aljahli | Researched existing solutions and defined the project scope and three workflows. |
+| Mohamed Alaaeldin Daoud | Prepared the functional and non-functional requirements, development approach, and project risks. |
 
 **Submission verification:** Replace all bracketed placeholders, verify the existing-solution comparison and current-process evidence, ensure that each team member has visible GitHub contributions, merge the approved version into `main`, and confirm that the instructor can access the repository.
