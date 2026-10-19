@@ -85,9 +85,9 @@ The first increment will support subscription records, the second will add renew
 
 | Role | Team member | Responsibility |
 |---|---|---|
-| Process and Project Coordinator | [MEMBER 1] | Coordinate schedule, task tracking, and repository progress. |
-| Requirements and Design Coordinator | [MEMBER 2] | Coordinate requirement reviews, workflows, and interface planning. |
-| Implementation and Quality Coordinator | [MEMBER 3] | Coordinate implementation, integration, and testing. |
+| Process and Project Coordinator | Saleh Alhajri | Coordinate schedule, task tracking, and repository progress. |
+| Requirements and Design Coordinator | Mohammad Aljahli | Coordinate requirement reviews, workflows, and interface planning. |
+| Implementation and Quality Coordinator | Mohamed Alaaeldin Daoud | Coordinate implementation, integration, and testing. |
 
 All three members will contribute to every major project activity; coordinator roles organize work rather than isolate responsibilities.
 
@@ -95,10 +95,10 @@ All three members will contribute to every major project activity; coordinator r
 
 | Milestone | Main planned output | Coordinator |
 |---|---|---|
-| 1. Proposal | Project proposal and initial requirements | [MEMBER 1] |
-| 2. Requirements and models | Refined requirements and system models | [MEMBER 2] |
-| 3. Design and initial prototype | Initial design and working subscription-record prototype | [MEMBER 3] |
-| 4. Final prototype, testing, and presentation | Integrated prototype, test evidence, and presentation | [MEMBER 3] |
+| 1. Proposal | Project proposal and initial requirements |Saleh Alhajri|
+| 2. Requirements and models | Refined requirements and system models | Mohammad Aljahli |
+| 3. Design and initial prototype | Initial design and working subscription-record prototype | Mohamed Alaaeldin Daoud |
+| 4. Final prototype, testing, and presentation | Integrated prototype, test evidence, and presentation | Mohamed Alaaeldin Daoud |
 
 ## Risks
 
@@ -126,8 +126,8 @@ ChatGPT was used to draft and organize an initial proposal based on the assignme
 
 | Member | Actual contribution and GitHub evidence |
 |---|---|
-| [MEMBER 1] | [ENTER ACTUAL WORK AND COMMIT / PULL REQUEST] |
-| [MEMBER 2] | [ENTER ACTUAL WORK AND COMMIT / PULL REQUEST] |
-| [MEMBER 3] | [ENTER ACTUAL WORK AND COMMIT / PULL REQUEST] |
+| Saleh Alhajri | [ENTER ACTUAL WORK AND COMMIT / PULL REQUEST] |
+| Mohammad Aljahli | [ENTER ACTUAL WORK AND COMMIT / PULL REQUEST] |
+| Mohamed Alaaeldin Daoud | [ENTER ACTUAL WORK AND COMMIT / PULL REQUEST] |
 
 **Submission verification:** Replace all bracketed placeholders, verify the existing-solution comparison and current-process evidence, ensure that each team member has visible GitHub contributions, merge the approved version into `main`, and confirm that the instructor can access the repository.
