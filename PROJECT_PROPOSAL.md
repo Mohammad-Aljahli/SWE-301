@@ -1,9 +1,9 @@
 # 4.1 Team Information
 
 **Project title:** Subscription & Storage Manager  
-**Group letter:** [GROUP E]  
-**Team members:** [Saleh Alhajri], [Mohammad Aljahli], [Mohamed Alaaeldin Daoud]  
-**GitHub repository URL:** [REPOSITORY URL]
+**Group letter:** GROUP E  
+**Team members:** Saleh Alhajri, Mohammad Aljahli, Mohamed Alaaeldin Daoud 
+**GitHub repository URL:** [Insert the actual GitHub repository URL]
 
 **One-sentence summary:** A web-based application that helps users manually track digital subscriptions, renewal dates, recurring costs, and cloud-storage usage in one place.
 
@@ -17,16 +17,15 @@ The two main actors are **User**, who manages subscription and storage records, 
 
 # 4.3 Existing Solutions
 
-The comparison below identifies possible reference solutions. The team must verify the features and limitations against the linked official sources before submission and add actual evidence for the current process (e.g., a documented observation or interview). The current-process description is a proposed scenario, not a claim that an interview has already occurred.
+The current process often involves checking separate service websites, emails, or spreadsheets to track subscription costs, renewal dates, and storage usage. This can make it difficult for users to maintain a clear overview of their subscriptions and storage information.
 
 | Existing process or solution | Useful features | Limitation for the proposed users | Source |
 |---|---|---|---|
-| Current process: separate provider pages, emails, or a personal spreadsheet | Users can manually record dates and costs without giving a third party account access. | Information can be fragmented and reminders or totals may require manual work. **Evidence to add:** [INTERVIEW / OBSERVATION / DOCUMENT AND DATE]. | [ACTUAL PRIMARY EVIDENCE REQUIRED] |
-| Rocket Money | Subscription and spending-management features. | Its broader financial-account-oriented workflow may be unnecessary for a classroom prototype focused on manually entered subscription and storage records. **Verify against the current product.** | https://www.rocketmoney.com/ |
-| Google One | Google-account storage management and storage-plan information. | It focuses on storage within Google's ecosystem rather than a manually maintained overview of subscriptions across multiple providers. **Verify against the current product.** | https://one.google.com/ |
+| Current process: separate service websites, emails, or spreadsheets | Users can manually track subscription details without sharing financial credentials. | Information is scattered across multiple sources, making it difficult to review renewal dates and total costs together. | [Insert actual interview, observation, or document evidence and date] |
+| Rocket Money | Provides subscription and spending-management features. | Its broader financial-management approach may be unnecessary for users who only want to manually track subscription and storage information. | https://www.rocketmoney.com/ |
+| Google One | Provides Google-account storage management and storage-plan information. | It primarily focuses on Google's storage ecosystem rather than a combined manual overview of subscriptions and storage across different providers. | https://one.google.com/ |
 
-**Comparison findings:** The proposed system will focus on a small combined dashboard for manually entered subscription costs, renewal dates, and storage figures. It is not intended to replace the complete capabilities of established finance or cloud-storage products. The team must confirm the comparison before final submission.
-
+**Comparison findings:** Existing solutions provide useful subscription-management or storage-management features. However, the proposed system focuses on combining manually entered subscription details, renewal dates, recurring costs, and cloud-storage usage in a single, simple dashboard. This approach avoids financial-account connections and third-party service integration, making the prototype more manageable for a three-student team.
 # 4.4 Proposed Solution and Justification
 
 The Subscription & Storage Manager will be a small web application in which a user can create and maintain subscription records, including service name, price, billing interval, and next renewal date. It will display upcoming renewals and calculate an estimated monthly total from saved subscription records. Users can also record a cloud-storage service's total capacity and used capacity, then view the resulting usage percentage. All information will be entered manually using simulated data.
