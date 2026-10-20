@@ -15,7 +15,7 @@ The problem matters to individuals who manage multiple subscriptions and want a 
 
 The two main actors are **User**, who manages subscription and storage records, and **Administrator**, who maintains demonstration accounts and sample data for the prototype. The administrator will not access real subscription credentials or payment information.
 
-# 4.3 Existing Solutions
+# # 4.3 Existing Solutions
 
 The current process often involves checking separate service websites, emails, or spreadsheets to track subscription costs, renewal dates, and storage usage. This can make it difficult for users to maintain a clear overview of their subscriptions and storage information.
 
@@ -108,20 +108,19 @@ All three members will contribute to every major project activity; coordinator r
 | Inaccurate or sensitive data entered into the prototype | Medium | Use only simulated data, validate numerical inputs, and avoid collecting provider credentials or payment details. |
 
 # 4.9 Sources, AI Use, and Contributions
+Sources
+- SWE301 Assignment 1: Project Proposal and Initial Requirements, instructor-provided assignment document.
+- Rocket Money official website: https://www.rocketmoney.com/ (official product website; verify claims before submission).
+- Google One official website: https://one.google.com/ (official product website; verify claims before submission).
+AI Use Disclosure
+ChatGPT (OpenAI) was used to help organize and revise the proposal text, clarify requirements, and compare the draft against the assignment instructions. The team must independently review the final wording, confirm factual claims using the listed sources, and revise any inaccurate or unsupported suggestions before submission. The team remains responsible for the final work.
 
-## Sources
+## ### Team Contributions
 
-- SWE301 Assignment 1: *Project Proposal and Initial Requirements*, instructor-provided assignment document.
-- Rocket Money official website: https://www.rocketmoney.com/ (product comparison; team verification required).
-- Google One official website: https://one.google.com/ (product comparison; team verification required).
+| Member | Contribution | GitHub Evidence |
+|---|---|---|
+| Saleh Alhajri | Defined the project problem, identified the target users, described the proposed solution, and reviewed the final proposal. | [Insert actual commit or pull request link] |
+| Mohammad Aljahli | Researched existing solutions, defined the project scope, and prepared the three workflows. | [Insert actual commit or pull request link] |
+| Mohamed Alaaeldin Daoud | Prepared the functional and non-functional requirements, development approach, and project risks. | [Insert actual commit or pull request link] |
 
-
-## Team Contributions
-
-| Member | Actual contribution and GitHub evidence |
-|---|---|
-| Saleh Alhajri |  Defined the project problem, users, and proposed solution. Reviewed the final proposal. |
-| Mohammad Aljahli | Researched existing solutions and defined the project scope and three workflows. |
-| Mohamed Alaaeldin Daoud | Prepared the functional and non-functional requirements, development approach, and project risks. |
-
-**Submission verification:** Replace all bracketed placeholders, verify the existing-solution comparison and current-process evidence, ensure that each team member has visible GitHub contributions, merge the approved version into `main`, and confirm that the instructor can access the repository.
+All three team members participated in reviewing the proposal and will contribute to the major development activities throughout the semester.
