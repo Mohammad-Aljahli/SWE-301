@@ -2,12 +2,12 @@
 
 **SWE301 — Assignment 1: Project Proposal and Initial Requirements**
 
-**Group letter:** [GROUP E]
+**Group letter:** GROUP E
 
 ## Team Members
-- [Saleh Alhajri]
-- [Mohammad Aljahli]
-- [Mohamed Daoud]
+- Saleh Alhajri
+- Mohammad Aljahli
+- Mohamed Daoud
 
 ## Project Summary
 A web-based application that helps users manually track digital subscriptions, renewal dates, recurring costs, and cloud-storage usage in one place.
