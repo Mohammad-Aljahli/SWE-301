@@ -1,16 +1,16 @@
 # Subscription & Storage Manager
 
-**SWE301 — Assignment 1: Project Proposal and Initial Requirements**
+**SWE301 — GROUP E**
 
-**Group letter:** GROUP E
-
-## Team Members
+## Team members
 - Saleh Alhajri
 - Mohammad Aljahli
-- Mohamed Daoud
+- Mohamed Alaaeldin Daoud
 
-## Project Summary
+## Project summary
 A web-based application that helps users manually track digital subscriptions, renewal dates, recurring costs, and cloud-storage usage in one place.
 
-## Project Proposal
-Read the [PROJECT_PROPOSAL.md](PROJECT_PROPOSAL.md) file for the project proposal and initial requirements.
+## Project documents
+- [Project Proposal and Initial Requirements](PROJECT_PROPOSAL.md)
+- [Sprint 1 Plan](SPRINT_1_PLAN.md)
+- [GitHub Project Board](INSERT_ACTUAL_GITHUB_PROJECT_URL)
