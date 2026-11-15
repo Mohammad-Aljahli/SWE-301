@@ -5,7 +5,7 @@
 **Team members:** Saleh Alhajri, Mohammad Aljahli, Mohamed Alaaeldin Daoud 
 **GitHub repository URL:** [Insert the actual GitHub repository URL]
 
-**One-sentence summary:** A web-based application that helps users manually track digital subscriptions, renewal dates, recurring costs, and cloud-storage usage in one place.
+**One-sentence summary:** A web-based application that helps users manually track digital subscriptions, renewal dates, recurring costs, and cloud-storage usage in one place
 
 # 4.2 Problem and Users
 
